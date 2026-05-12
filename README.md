@@ -45,8 +45,7 @@ The implementation ensures:
 AI-TicTacToe/
 │
 ├── main.py
-├── README.md
-└── screenshots/
+└── README.md
 ```
 
 ---
